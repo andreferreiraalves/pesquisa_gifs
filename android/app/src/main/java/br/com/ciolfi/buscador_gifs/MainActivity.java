@@ -1,4 +1,4 @@
-package com.example.pesquisa_guif;
+package br.com.ciolfi.buscador_gifs;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
